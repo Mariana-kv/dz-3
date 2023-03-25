@@ -1,0 +1,33 @@
+student:
+  - firstName: Aaaa
+    lastName: Bbbb
+    isOnlineStudy: true
+    age: 20
+    hasAccountId: false
+    address:
+      Adress1:
+        country: Ukraine
+        city: Lviv
+        street: Zelena
+        building: 27
+      Adress2:
+        country: Ukraine
+        city: Lviv
+        street: Shevchenka
+        building: 15
+    phoneNumber:
+      - type: mobile
+        number: 1234567890
+      - type: home
+        number: 9876543210
+      - type: work
+        number: 222222222
+    email:
+      - typeEmail: main
+        mail: test@gmail.com
+      - typeEmail: extra
+        mail: extatest@gmail.com
+    faculty: MTM
+    courses: [algebra, analytic geometry, probability theory]
+    scientificPapers: null
+    updateDate: 2023-03-25T00:00:00.000Z

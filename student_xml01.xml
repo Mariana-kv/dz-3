@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+	<firstName>Aaaa</firstName>
+	<lastName>Bbbb</lastName>
+	<isOnlineStudy>true</isOnlineStudy>
+	<age>20</age>
+	<hasAccountId>false</hasAccountId>
+	<address>
+		<Adress1>
+			<country>Ukraine</country>
+			<city>Lviv</city>
+			<street>Zelena</street>
+			<building>27</building>
+		</Adress1>
+		<Adress2>
+			<country>Ukraine</country>
+			<city>Lviv</city>
+			<street>Shevchenka</street>
+			<building>15</building>
+		</Adress2>
+	</address>
+	<phoneNumber>
+		<type>mobile</type>
+		<number>1234567890</number>
+	</phoneNumber>
+	<phoneNumber>
+		<type>home</type>
+		<number>9876543210</number>
+	</phoneNumber>
+	<phoneNumber>
+		<type>work</type>
+		<number>222222222</number>
+	</phoneNumber>
+	<email>
+		<typeEmail>main</typeEmail>
+		<mail>test@gmail.com</mail>
+	</email>
+	<email>
+		<typeEmail>extra</typeEmail>
+		<mail>extatest@gmail.com</mail>
+	</email>
+	<faculty>MTM</faculty>
+	<courses>algebra</courses>
+	<courses>analytic geometry</courses>
+	<courses>probability theory</courses>
+	<scientificPapers />
+	<updateDate>2023-03-25T00:00:00.000Z</updateDate>
+</student>
